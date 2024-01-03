@@ -5,4 +5,5 @@ e.g if u want create a new todo list with the name of "Office Work", simply type
 <br>
 To use this app, install node and npm and type "npm install" in the terminal. After that type "node app.js". <br>
 Go to the browser and type localhost:3000
-![Screenshot_2023-05-30_19_34_12](https://github.com/MuhammadAhmad522/todolist-v1/assets/66472557/150ad292-5a7e-493d-94c3-14cdc9f32c69)
+
+![ToDo-App](https://github.com/MuhammadAhmad522/TodoList-App/assets/66472557/28f280b1-16d5-41ba-9f80-878ef864477f)
